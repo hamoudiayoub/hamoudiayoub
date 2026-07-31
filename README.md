@@ -370,7 +370,7 @@ Java desktop application built to streamline exam creation and management.
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<sub><i>⚠️ This animated snake needs a one-time GitHub Actions workflow to generate the SVG — let me know if you want that workflow file too.</i></sub>
+
 </div>
 
 ---
