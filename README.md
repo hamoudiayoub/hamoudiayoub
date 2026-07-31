@@ -52,7 +52,7 @@ const ayoub = {
   school   : "INPT Rabat, Morocco",
   track    : "Advanced Software Engineering for Digital Services",
 
-  background : "PSI prépa in Marrakech · Ranked 12th nationally (CNC)",
+  background : "PSI CPGE in Marrakech · Ranked 12th nationally (CNC)",
 
   currentlyAt : "B2BLink — Software Engineer Intern, SmartAlert platform",
 
