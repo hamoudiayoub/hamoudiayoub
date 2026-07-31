@@ -8,16 +8,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=220&section=header&text=Ayoub%20Hamoudi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%40%20INPT%20Rabat&descSize=20&descColor=a0c4ff&descAlignY=58" />
 
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+mobile+%26+AI-powered+apps+%F0%9F%9A%80;Full-Stack+%7C+AI+%2F+LLM+%7C+Mobile+(React+Native);Advanced+Software+Engineering+for+Digital+Services;Currently+interning+%40+CMR+Open+Lab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+mobile+%26+AI-powered+apps+%F0%9F%9A%80;Full-Stack+%7C+AI+%2F+LLM+%7C+Mobile+(React+Native+%2F+Flutter);Advanced+Software+Engineering+for+Digital+Services;Currently+interning+%40+B2BLink" alt="Typing SVG" />
 
 <br/>
 
 <!-- ─── MAIN BADGES ───────────────────────────────────────────────────── -->
+<a href="https://www.linkedin.com/in/ayoub-hamoudi-1a259b375/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hamoudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="mailto:hamoudiayoub891@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hamoudiayoub891-commits&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -26,7 +28,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍_Rabat-Morocco-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/💼-Interning_@_CMR_Open_Lab-00cc8f?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼-Interning_@_B2BLink-00cc8f?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🤖-Building_with_AI/LLMs-D4A027?style=flat-square&labelColor=0d1117" />
 
@@ -52,15 +54,16 @@ const ayoub = {
 
   background : "PSI prépa in Marrakech · Ranked 12th nationally (CNC)",
 
-  previouslyAt : "CMR (Caisse Marocaine des Retraites) Open Lab, w/ Soft Centre",
-  currentlyAt  : "B2BLink",
+  currentlyAt : "B2BLink — Software Engineer Intern, SmartAlert platform",
 
-  focus    : ["Mobile (React Native)", "AI / LLM integration", "Full-Stack"],
+  focus    : ["Mobile (React Native / Flutter)", "AI / LLM integration", "Full-Stack"],
 
   building : [
+    "SmartAlert — automotive offer alert platform",
     "Senior-Aidant — elderly wellness mobile app",
     "Esthétique AI — AI-powered skin diagnostics",
-    "Recruitment & orientation platforms",
+    "APK Coiffure — AI hair advice app",
+    "APK Coach Fitness & Recettes — AI fitness/recipes app",
   ],
 
   languagesSpoken : ["English", "French", "Arabic"],
@@ -81,16 +84,34 @@ const ayoub = {
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <details open>
-<summary><b>💼 Current Internship</b></summary>
+<summary><b>💼 Professional Experience</b></summary>
 
 <br/>
 
 | | Role | Organization | Status |
 |:---:|:---|:---|:---|
-| 🏛️ | **Academic Intern (PFA)** | CMR Open Lab, in collaboration with Soft Centre | Active |
+| 🚨 | **Software Engineer Intern** | B2BLink — SmartAlert Platform | Active |
+| 💇 | **LLM Developer** | AGH Data Agency Holding | Past |
+| 🏛️ | **Software Engineer Intern** | CMR Open Lab, in collaboration with Soft Centre | Past |
 
-**@ CMR Open Lab**
-- Building **Senior-Aidant**, a wellness app for elderly retirees, with teammate Haitham Achour
+**@ B2BLink — SmartAlert Platform**
+- Currently developing SmartAlert, a personalized automotive offer alert platform
+- Software Engineer Intern role, building on prior experience in mobile and LLM-powered apps
+
+**@ AGH Data Agency Holding — LLM Developer**
+- ✂️ **APK Coiffure** (cross-platform hair advice app)
+  - REST architecture with FastAPI, integrating the lightweight LLM Qwen2.5-0.5B (non-Thinking)
+  - Real-time face morphology detection via MediaPipe
+  - Flutter mobile client with multi-turn conversational history management
+  - Semantic filtering (whitelist/blacklist) to constrain the LLM to its business scope
+- 🏋️ **APK Coach Fitness & Recettes** (optimization & Clean Architecture)
+  - Migrated to general-purpose models (Qwen2.5-1.5B / 3B) for 5-10x faster generation
+  - Removed the RAG layer to lighten the app and reduce RAM consumption
+  - Full mobile architecture rework: Clean Architecture (Domain/Data layers, Provider) with a Django backend
+- 💆 **Esthétique AI** — AI-powered skin diagnostics app (see Featured Projects below)
+
+**@ CMR Open Lab — Software Engineer Intern**
+- Designed and developed **Senior-Aidant**, a wellness app for elderly retirees, with teammate Haitham Achour
 - Dual-interface React Native/Expo app: accessible **Senior** mode + real-time **Caregiver** dashboard
 - Ran user testing sessions that shaped the design around a core insight: technology has to feel reassuring before it's functional for this audience
 - Academic report grounded in Design Thinking methodology, with abstracts in French, English, and Arabic
@@ -110,11 +131,11 @@ const ayoub = {
 
 **Mobile & Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,ts,js,tailwind&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,java,spring,fastapi&theme=dark" />
 
 **Databases**
 
@@ -135,12 +156,12 @@ const ayoub = {
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Mobile / Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Mobile / Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **AI / LLM** | ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square) ![Claude](https://img.shields.io/badge/Claude_API-D4A027?style=flat-square) |
-| **Other** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) |
+| **AI / LLM** | ![Qwen2.5](https://img.shields.io/badge/Qwen2.5-6247AA?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square) ![Claude](https://img.shields.io/badge/Claude_API-D4A027?style=flat-square) |
+| **Other** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=flat-square) |
 
 </details>
 
@@ -161,8 +182,20 @@ const ayoub = {
 <td width="50%" valign="top">
 <br/>
 
+<h3 align="center">🚨 SmartAlert</h3>
+<p align="center"><sup>INTERNSHIP · B2BLINK</sup></p>
+
+Personalized automotive offer alert platform, currently in active development as part of a Software Engineer Internship at B2BLink.
+
+<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
+<br/>
+</td>
+
+<td width="50%" valign="top">
+<br/>
+
 <h3 align="center">🧓 Senior-Aidant</h3>
-<p align="center"><sup>PFA · CMR OPEN LAB</sup></p>
+<p align="center"><sup>SOFTWARE ENGINEER INTERN · CMR OPEN LAB</sup></p>
 
 Dual-interface wellness app for elderly retirees and their caregivers: an accessible, large-button "Senior" mode paired with a real-time "Caregiver" dashboard, shaped by hands-on user testing.
 
@@ -171,15 +204,18 @@ Dual-interface wellness app for elderly retirees and their caregivers: an access
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Design_Thinking-FF6B6B?style=flat-square" />
 </p>
-<img src="https://img.shields.io/badge/Status-In_Progress-f0ad4e?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
 </td>
+</tr>
 
+<!-- ROW 2 -->
+<tr>
 <td width="50%" valign="top">
 <br/>
 
 <h3 align="center">💆 Esthétique AI</h3>
-<p align="center"><sup>AI SKIN DIAGNOSTICS</sup></p>
+<p align="center"><sup>LLM DEVELOPER · AGH DATA AGENCY HOLDING</sup></p>
 
 AI-powered skin diagnostics app with selfie-based analysis, personalized routine generation, and a multi-turn beauty chat persona ("Aïna"), backed by a 100-product skincare recommendation engine.
 
@@ -188,13 +224,49 @@ AI-powered skin diagnostics app with selfie-based analysis, personalized routine
 <img src="https://img.shields.io/badge/Gemini_1.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
+<br/>
+</td>
+
+<td width="50%" valign="top">
+<br/>
+
+<h3 align="center">✂️ APK Coiffure</h3>
+<p align="center"><sup>LLM DEVELOPER · AGH DATA AGENCY HOLDING</sup></p>
+
+Cross-platform hair advice app: FastAPI REST backend with the lightweight Qwen2.5-0.5B LLM, real-time face morphology detection via MediaPipe, and a Flutter client with multi-turn conversation history — constrained to its business scope via semantic whitelist/blacklist filtering.
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen2.5--0.5B-6247AA?style=flat-square" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
 </td>
 </tr>
 
-<!-- ROW 2 -->
+<!-- ROW 3 -->
 <tr>
+<td width="50%" valign="top">
+<br/>
+
+<h3 align="center">🏋️ APK Coach Fitness & Recettes</h3>
+<p align="center"><sup>LLM DEVELOPER · AGH DATA AGENCY HOLDING</sup></p>
+
+Fitness & recipes app optimized for speed and footprint: migrated to Qwen2.5-1.5B/3B for 5-10x faster generation, dropped the RAG layer to cut RAM usage, and reworked the mobile app into Clean Architecture (Domain/Data layers, Provider) on a Django backend.
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen2.5--1.5B%2F3B-6247AA?style=flat-square" />
+<img src="https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=flat-square" />
+</p>
+<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
+<br/>
+</td>
+
 <td width="50%" valign="top">
 <br/>
 
@@ -213,7 +285,10 @@ Recruitment platform connecting candidates and recruiters, with LLM-assisted fea
 <img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
 </td>
+</tr>
 
+<!-- ROW 4 -->
+<tr>
 <td width="50%" valign="top">
 <br/>
 
@@ -229,10 +304,7 @@ Academic orientation platform built via INPT's Junior Enterprise, helping studen
 <img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
 </td>
-</tr>
 
-<!-- ROW 3 -->
-<tr>
 <td width="50%" valign="top">
 <br/>
 
@@ -243,22 +315,6 @@ Java desktop application built to streamline exam creation and management.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
-<br/>
-</td>
-
-<td width="50%" valign="top">
-<br/>
-
-<h3 align="center">💎 Moroccan Jewels</h3>
-<p align="center"><sup>LUXURY TRAVEL · SIDE PROJECT</sup></p>
-
-Multi-page luxury travel web platform showcasing curated experiences across Morocco.
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 <img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
@@ -314,7 +370,7 @@ Multi-page luxury travel web platform showcasing curated experiences across Moro
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<sub><i>⚠️ This animated snake needs a one-time GitHub Actions workflow to generate the SVG — see setup note below.</i></sub>
+<sub><i>⚠️ This animated snake needs a one-time GitHub Actions workflow to generate the SVG — let me know if you want that workflow file too.</i></sub>
 </div>
 
 ---
@@ -327,6 +383,10 @@ Multi-page luxury travel web platform showcasing curated experiences across Moro
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/ayoub-hamoudi-1a259b375/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="mailto:hamoudiayoub891@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
