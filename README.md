@@ -363,10 +363,14 @@ Java desktop application built to streamline exam creation and management.
 
 ## 🐍 Contribution Map
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" /> </picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 <sub><i>Powered by the <code>.github/workflows/snake.yml</code> workflow — it generates these SVGs on the <code>output</code> branch on every push to main and once a day.</i></sub>
-
 </div>
 
 ---
