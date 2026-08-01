@@ -365,9 +365,9 @@ Java desktop application built to streamline exam creation and management.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub/hamoudiayoub/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 <sub><i>Powered by the <code>.github/workflows/snake.yml</code> workflow — it generates these SVGs on the <code>output</code> branch on every push to main and once a day.</i></sub>
@@ -391,7 +391,7 @@ Java desktop application built to streamline exam creation and management.
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/hamoudiayoub891-commits">
+<a href="https://github.com/hamoudiayoub">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
