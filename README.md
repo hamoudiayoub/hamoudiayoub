@@ -335,23 +335,23 @@ Java desktop application built to streamline exam creation and management.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamoudiayoub891-commits&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamoudiayoub&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=hamoudiayoub891-commits&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img height="180" src="https://streak-stats.demolab.com?user=hamoudiayoub&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamoudiayoub891-commits&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamoudiayoub&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamoudiayoub891-commits&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=132031&area=true&hide_border=true&custom_title=Contribution+Activity" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamoudiayoub&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=132031&area=true&hide_border=true&custom_title=Contribution+Activity" />
 
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hamoudiayoub891-commits&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=hamoudiayoub&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -365,9 +365,9 @@ Java desktop application built to streamline exam creation and management.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub891-commits/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamoudiayoub891-commits/hamoudiayoub/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 <sub><i>Powered by the <code>.github/workflows/snake.yml</code> workflow — it generates these SVGs on the <code>output</code> branch on every push to main and once a day.</i></sub>
