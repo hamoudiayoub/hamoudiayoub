@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=220&section=header&text=Ayoub%20Hamoudi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%40%20INPT%20Rabat&descSize=20&descColor=a0c4ff&descAlignY=58" />
 
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+mobile+%26+AI-powered+apps+%F0%9F%9A%80;Full-Stack+%7C+AI+%2F+LLM+%7C+Mobile+(React+Native+%2F+Flutter);Advanced+Software+Engineering+for+Digital+Services;Currently+interning+%40+B2BLink" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Building+mobile+%26+AI-powered+apps+%F0%9F%9A%80;Distributed+Systems+%7C+Cloud+%7C+AI+%2F+LLM+%7C+Mobile;Advanced+Software+Engineering+for+Digital+Services;Ex-Software+Engineer+Intern+%40+B2BLink" alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍_Rabat-Morocco-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/💼-Interning_@_B2BLink-00cc8f?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼-Ex--Intern_@_B2BLink-00cc8f?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🤖-Building_with_AI/LLMs-D4A027?style=flat-square&labelColor=0d1117" />
 
@@ -54,11 +54,21 @@ const ayoub = {
 
   background : "PSI CPGE in Marrakech · Ranked 12th nationally (CNC)",
 
-  currentlyAt : "B2BLink — Software Engineer Intern, SmartAlert platform",
+  experience : [
+    "B2BLink — Software Engineer Intern, SmartAlert platform",
+    "AGH Data Agency Holding — LLM Developer",
+    "CMR Open Lab — Software Engineer Intern",
+  ],
 
-  focus    : ["Mobile (React Native / Flutter)", "AI / LLM integration", "Full-Stack"],
+  focus    : [
+    "Distributed Systems",
+    "Cloud Computing",
+    "Mobile (React Native / Flutter)",
+    "AI / LLM integration",
+    "Full-Stack",
+  ],
 
-  building : [
+  built : [
     "SmartAlert — automotive offer alert platform",
     "Senior-Aidant — elderly wellness mobile app",
     "Esthétique AI — AI-powered skin diagnostics",
@@ -69,7 +79,8 @@ const ayoub = {
   languagesSpoken : ["English", "French", "Arabic"],
 
   interests : [
-    "Web dev (React, Next.js, Tailwind, Framer Motion)",
+    "Inference engineering",
+    "Cybersecurity",
     "Debate club & volunteering",
   ],
 };
@@ -90,12 +101,12 @@ const ayoub = {
 
 | | Role | Organization | Status |
 |:---:|:---|:---|:---|
-| 🚨 | **Software Engineer Intern** | B2BLink — SmartAlert Platform | Active |
-| 💇 | **LLM Developer** | AGH Data Agency Holding | Past |
-| 🏛️ | **Software Engineer Intern** | CMR Open Lab, in collaboration with Soft Centre | Past |
+| 🚨 | **Software Engineer Intern** | B2BLink — SmartAlert Platform | Completed |
+| 💇 | **LLM Developer** | AGH Data Agency Holding | Completed |
+| 🏛️ | **Software Engineer Intern** | CMR Open Lab, in collaboration with Soft Centre | Completed |
 
 **@ B2BLink — SmartAlert Platform**
-- Currently developing SmartAlert, a personalized automotive offer alert platform
+- Developed SmartAlert, a personalized automotive offer alert platform
 - Software Engineer Intern role, building on prior experience in mobile and LLM-powered apps
 
 **@ AGH Data Agency Holding — LLM Developer**
@@ -183,11 +194,11 @@ const ayoub = {
 <br/>
 
 <h3 align="center">🚨 SmartAlert</h3>
-<p align="center"><sup>INTERNSHIP · B2BLINK</sup></p>
+<p align="center"><sup>SOFTWARE ENGINEER INTERN · B2BLINK</sup></p>
 
-Personalized automotive offer alert platform, currently in active development as part of a Software Engineer Internship at B2BLink.
+Personalized automotive offer alert platform, developed during a Software Engineer Internship at B2BLink.
 
-<img src="https://img.shields.io/badge/Status-Active-00cc8f?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Shipped-58a6ff?style=flat-square" />
 <br/>
 </td>
 
