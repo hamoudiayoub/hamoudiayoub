@@ -13,6 +13,10 @@
 <br/>
 
 <!-- ─── MAIN BADGES ───────────────────────────────────────────────────── -->
+<a href="https://hamoudiayoub.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-hamoudiayoub.github.io-E0401F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ayoub-hamoudi-1a259b375/">
   <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hamoudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -360,6 +364,10 @@ Java desktop application built to streamline exam creation and management.
 
 <div align="center">
 
+<a href="https://hamoudiayoub.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-E0401F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ayoub-hamoudi-1a259b375/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
