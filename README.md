@@ -48,7 +48,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=hamoudiayoub891-commits&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile" />
+<img align="right" width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamoudiayoub&theme=github_dark" alt="GitHub stats" />
 
 ```typescript
 const ayoub = {
